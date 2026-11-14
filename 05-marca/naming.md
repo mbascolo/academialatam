@@ -1,6 +1,6 @@
 # Naming
 
-Estado: **abierto, con favorita: Kreatia** (Matías, 2026-11-14). Productos: cursos cortos y puntuales; la marca debe transmitir potenciar conocimientos o idea de incubadora. "Academia LATAM" es el nombre de trabajo del repositorio.
+Estado: **abierto**. Kreatia fue favorita, pero Matías quiere repensar el nombre buscando un juego de palabras (2026-11-14). Productos: cursos cortos y puntuales; la marca debe transmitir potenciar conocimientos o idea de incubadora. "Academia LATAM" es el nombre de trabajo del repositorio.
 
 ## Criterios
 
@@ -61,3 +61,7 @@ Con la bajada: *Programa desarrollado en colaboración con Universidad XXXX.*
 | PotencIA (propuesta de Claude, 2026-11-14, tanda 5) | potenciaia.com tomado; potenciaia.lat disponible | Sin verificar; "potencia" es palabra común | Potencia + IA, repite la bajada elegida. |
 | AudacIA (propuesta de Claude, 2026-11-14, tanda 5) | audaciaia.com disponible; audacia.lat tomado | Sin verificar | Audacia + IA: moderna y con actitud. |
 | ActivIA (idea descartada) | activaia.lat disponible | Riesgo alto: choca con Activia de Danone, marca muy conocida | Se descarta. |
+| MentorIA (propuesta de Claude, 2026-11-14, tanda 6) | mentoria.lat disponible; mentoriaia.com y soymentoria.com tomados | Sin verificar; palabra común | Mentoría + IA. Seria y clara; riesgo: "mentoría" promete acompañamiento personal que un curso low ticket quizás no da. |
+| GenIA (propuesta de Claude, 2026-11-14, tanda 6) | geniaia.com disponible; genia.lat y soygenia.com tomados | Sin verificar | Genio + IA: corta y simpática ("volvete un genio con IA"); dominio débil. |
+| AIprende (propuesta de Claude, 2026-11-14, tanda 6) | aiprende.lat y aiprende.io disponibles; .com tomado | Sin verificar | Aprende con AI adentro; retoma la idea de latamaprende con más gracia, pero sigue sonando a catálogo. |
+| Hackademia (propuesta de Claude, 2026-11-14, tanda 6) | hackademia.lat disponible | Sin verificar | Hack + academia, guiño al growth hacking; moderna, menos seria. |
