@@ -1,6 +1,6 @@
 # Naming
 
-Estado: **abierto**. "Academia LATAM" es el nombre de trabajo del repositorio.
+Estado: **abierto, con favorita: Kreatia** (Matías, 2026-11-14). Productos: cursos cortos y puntuales; la marca debe transmitir potenciar conocimientos o idea de incubadora. "Academia LATAM" es el nombre de trabajo del repositorio.
 
 ## Criterios
 
@@ -46,6 +46,14 @@ Con la bajada: *Programa desarrollado en colaboración con Universidad XXXX.*
 | Atajo (propuesta de Claude, 2026-11-14, tanda 2) | atajo.lat disponible; atajoia.com tomado (2026-11-14) | Sin verificar | Territorio rapidez: cada curso es un atajo concreto; muy alineado con low ticket. |
 | Aira (propuesta de Claude, 2026-11-14, tanda 2) | aira.lat y airaacademy.com tomados (2026-11-14) | Sin verificar | Territorio inventado: lleva "IA" adentro, suena suave y moderno; hay que construirle significado. |
 | Faro (propuesta de Claude, 2026-11-14, tanda 2) | faro.lat y faroia.com tomados (2026-11-14) | Sin verificar | Territorio guía: alguien que te orienta en el ruido de la IA. Seria y cálida. |
-| Markia (propuesta de Claude, 2026-11-14, tanda 3, **recomendada**) | markia.com tomado; markia.lat, soymarkia.com y markiaschool.com disponibles | Sin verificar | Estilo Platzi: marketing + IA en una palabra de tres sílabas que termina en vocal. "Soy Markia" sigue el modelo de Henry. |
-| Kreatia (propuesta de Claude, 2026-11-14, tanda 3) | kreatia.com tomado; kreatia.lat, kreatia.io y kreatiaschool.com disponibles | Sin verificar | Estilo Domestika: crear + IA, con la k que la vuelve propia. Más creativa que técnica. |
+| Markia (propuesta de Claude, 2026-11-14, tanda 3) | markia.com tomado; markia.lat, soymarkia.com y markiaschool.com disponibles | Sin verificar | Estilo Platzi: marketing + IA en una palabra de tres sílabas que termina en vocal. "Soy Markia" sigue el modelo de Henry. |
+| Kreatia (propuesta de Claude, 2026-11-14, tanda 3; **favorita de Matías**) | kreatia.com tomado; disponibles kreatia.lat, kreatia.io, kreatia.academy, kreatia.app, soykreatia.com, kreatiaschool.com y kreatialab.com | Sin verificar | Estilo Domestika: crear + IA, con la k que la vuelve propia. Más creativa que técnica. |
 | Growthers (propuesta de Claude, 2026-11-14, tanda 3) | growthers.com tomado; growthers.lat, somosgrowthers.com y growthershouse.com disponibles | Sin verificar | Estilo Coderhouse: el rol en que te convertís ("los que hacen crecer"). En inglés, pero "growth" ya es jerga del marketing en LATAM. |
+| Kubia (propuesta de Claude, 2026-11-14, tanda 4) | kubia.com y kubia.io tomados; kubia.lat disponible | Sin verificar | Incubadora + IA. Alternativa si se quiere reforzar la idea de incubadora. |
+| Impulsia (propuesta de Claude, 2026-11-14, tanda 4) | impulsia.com tomado; impulsia.lat disponible | Sin verificar | Impulsar + IA. Más directa con la idea de potenciar. |
+
+### Bajadas para Kreatia (borrador)
+
+- *Kreatia — Potenciá lo que sabés con IA.*
+- *Kreatia — Cursos cortos de IA y Marketing para crecer ya.*
+- *Kreatia — Donde tus ideas toman impulso.* (línea incubadora)
