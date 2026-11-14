@@ -54,6 +54,6 @@ Con la bajada: *Programa desarrollado en colaboración con Universidad XXXX.*
 
 ### Bajadas para Kreatia (borrador)
 
-- *Kreatia — Potenciá lo que sabés con IA.*
+- *Kreatia — Potencia lo que sabes con IA.* (elegida por Matías, 2026-11-14; en español neutro para toda LATAM)
 - *Kreatia — Cursos cortos de IA y Marketing para crecer ya.*
 - *Kreatia — Donde tus ideas toman impulso.* (línea incubadora)
