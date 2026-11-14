@@ -57,3 +57,7 @@ Con la bajada: *Programa desarrollado en colaboración con Universidad XXXX.*
 - *Kreatia — Potencia lo que sabes con IA.* (elegida por Matías, 2026-11-14; en español neutro para toda LATAM)
 - *Kreatia — Cursos cortos de IA y Marketing para crecer ya.*
 - *Kreatia — Donde tus ideas toman impulso.* (línea incubadora)
+| AIcción (propuesta de Claude, 2026-11-14, tanda 5, juego de palabras pedido por Matías) | aiccion.com y aiccion.lat disponibles | Sin verificar | "Acción" con AI adentro, en la línea de "activaction". Riesgo: en español se dice IA, y la lectura puede dudar al principio. |
+| PotencIA (propuesta de Claude, 2026-11-14, tanda 5) | potenciaia.com tomado; potenciaia.lat disponible | Sin verificar; "potencia" es palabra común | Potencia + IA, repite la bajada elegida. |
+| AudacIA (propuesta de Claude, 2026-11-14, tanda 5) | audaciaia.com disponible; audacia.lat tomado | Sin verificar | Audacia + IA: moderna y con actitud. |
+| ActivIA (idea descartada) | activaia.lat disponible | Riesgo alto: choca con Activia de Danone, marca muy conocida | Se descarta. |
