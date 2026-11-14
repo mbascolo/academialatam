@@ -1,5 +1,11 @@
 # Posicionamiento
 
+## Actualización 2026-11-14 (Matías)
+
+- La marca arranca vendiendo **cursos low ticket de IA y Marketing**.
+- Tono buscado: **moderno pero serio**.
+- Implicancias: venta por volumen (anuncios, redes, embudos), promesa concreta y rápida por curso, certificado propio. El enfoque de escuela de negocios con aval universitario de abajo queda como posible etapa posterior, no como el posicionamiento de lanzamiento.
+
 ## Categoría
 
 Escuela de negocios y tecnología online para profesionales de Latinoamérica, especializada en **IA aplicada, Business, Marketing y tecnología**.
