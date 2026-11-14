@@ -16,6 +16,15 @@ Estado: **abierto**. "Academia LATAM" es el nombre de trabajo del repositorio.
 - Producto inicial: **cursos low ticket de IA y Marketing**. El nombre tiene que funcionar en anuncios y redes: corto, recordable al primer vistazo, fácil de escribir en un buscador.
 - Evitar nombres atados a una moda (ej. "Prompt…", "GPT…") que envejezcan rápido.
 
+## Referentes (2026-11-14)
+
+Matías pidió tomar como modelo marcas EdTech que pegaron en LATAM. Patrones (análisis de Claude, de conocimiento general):
+
+- **Rol + lugar** (Coderhouse, Digital House): dice en qué te convertís y suma una idea de comunidad.
+- **Inventado latino** (Platzi, Crehana, Domestika): 2 o 3 sílabas, termina en vocal, una letra que lo vuelve propio (z, k) y un guiño a una palabra real.
+- **Nombre de persona** (Henry, con soyhenry.com): cercano, y el "soy" resuelve el dominio.
+- Ninguno dice "cursos" ni "aprende": son cortos, sonoros y dueños de su dominio.
+
 ## Estructuras conceptuales
 
 - `[MARCA] Business & Technology School`
@@ -37,3 +46,6 @@ Con la bajada: *Programa desarrollado en colaboración con Universidad XXXX.*
 | Atajo (propuesta de Claude, 2026-11-14, tanda 2) | atajo.lat disponible; atajoia.com tomado (2026-11-14) | Sin verificar | Territorio rapidez: cada curso es un atajo concreto; muy alineado con low ticket. |
 | Aira (propuesta de Claude, 2026-11-14, tanda 2) | aira.lat y airaacademy.com tomados (2026-11-14) | Sin verificar | Territorio inventado: lleva "IA" adentro, suena suave y moderno; hay que construirle significado. |
 | Faro (propuesta de Claude, 2026-11-14, tanda 2) | faro.lat y faroia.com tomados (2026-11-14) | Sin verificar | Territorio guía: alguien que te orienta en el ruido de la IA. Seria y cálida. |
+| Markia (propuesta de Claude, 2026-11-14, tanda 3, **recomendada**) | markia.com tomado; markia.lat, soymarkia.com y markiaschool.com disponibles | Sin verificar | Estilo Platzi: marketing + IA en una palabra de tres sílabas que termina en vocal. "Soy Markia" sigue el modelo de Henry. |
+| Kreatia (propuesta de Claude, 2026-11-14, tanda 3) | kreatia.com tomado; kreatia.lat, kreatia.io y kreatiaschool.com disponibles | Sin verificar | Estilo Domestika: crear + IA, con la k que la vuelve propia. Más creativa que técnica. |
+| Growthers (propuesta de Claude, 2026-11-14, tanda 3) | growthers.com tomado; growthers.lat, somosgrowthers.com y growthershouse.com disponibles | Sin verificar | Estilo Coderhouse: el rol en que te convertís ("los que hacen crecer"). En inglés, pero "growth" ya es jerga del marketing en LATAM. |
